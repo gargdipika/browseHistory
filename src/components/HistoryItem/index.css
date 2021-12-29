@@ -1,0 +1,30 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90vw;
+  list-style: none;
+  box-shadow: darkgrey;
+}
+
+.image-style {
+  height: 20px;
+  width: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.title-style {
+  margin-right: 20px;
+  font-weight: 600;
+}
+
+.delete-icon-style {
+  justify-self: flex-end;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
