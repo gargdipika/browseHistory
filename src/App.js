@@ -105,7 +105,7 @@ class App extends Component {
     let classForNoHistory = ''
     let forHistory = ''
     if (historyList.length === 0) {
-      classForNoHistory = ''
+      classForNoHistory = 'height-style'
       forHistory = 'hide'
     } else {
       classForNoHistory = 'hide'

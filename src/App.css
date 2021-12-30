@@ -42,3 +42,10 @@ body {
 .hide {
   display: none;
 }
+.height-style {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
